@@ -1507,18 +1507,10 @@
   dependencies:
     "@elastic/ecs-helpers" "^1.1.0"
 
-"@elastic/elasticsearch-types@npm:@elastic/elasticsearch@^8.2.1":
+"@elastic/elasticsearch-types@npm:@elastic/elasticsearch@^8.2.1", "@elastic/elasticsearch@8.6.0":
   version "8.6.0"
   resolved "https://registry.yarnpkg.com/@elastic/elasticsearch/-/elasticsearch-8.6.0.tgz#c474f49808deee64b5bc5b8f938bf78f4468cb94"
   integrity sha512-mN5EbbgSp1rfRmQ/5Hv7jqAK8xhGJxCg7G84xje8hSefE59P+HPPCv/+DgesCUSJdZpwXIo0DwOWHfHvktxxLw==
-  dependencies:
-    "@elastic/transport" "^8.3.1"
-    tslib "^2.4.0"
-
-"@elastic/elasticsearch@npm:@elastic/elasticsearch-canary@8.6.0-canary.3":
-  version "8.6.0-canary.3"
-  resolved "https://registry.yarnpkg.com/@elastic/elasticsearch-canary/-/elasticsearch-canary-8.6.0-canary.3.tgz#dc518f5ae4bb502b08ff70e4d86fa7b859b3cbe3"
-  integrity sha512-NvTZrRT/d5mJZ46pDlbgdKVIhA7ac504IGVaf7OV/7wHDmXjm8d/cG2UeQd8v37zMplGq2/853uFWGlXXjD0lQ==
   dependencies:
     "@elastic/transport" "^8.3.1"
     tslib "^2.4.0"
