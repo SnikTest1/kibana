@@ -102,7 +102,7 @@
     "@elastic/numeral": "^2.5.1",
     "@elastic/react-search-ui": "^1.19.1",
     "@elastic/react-search-ui-views": "^1.19.1",
-    "@elastic/request-crypto": "2.0.1",
+    "@elastic/request-crypto": "2.0.2",
     "@elastic/search-ui": "^1.19.1",
     "@elastic/search-ui-app-search-connector": "^1.19.1",
     "@elastic/search-ui-engines-connector": "^1.19.1",
