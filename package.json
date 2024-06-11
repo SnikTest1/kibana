@@ -112,7 +112,7 @@
     "@emotion/serialize": "^1.1.0",
     "@emotion/server": "^11.10.0",
     "@emotion/styled": "^11.10.5",
-    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/grpc-js": "^1.8.22",
     "@hapi/accept": "^5.0.2",
     "@hapi/boom": "^9.1.4",
     "@hapi/cookie": "^11.0.2",
